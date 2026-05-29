@@ -1,6 +1,6 @@
-# Modelo de probabilidad de recompra — Online Retail II
+# Modelo de probabilidad de recompra
 
-Ejercicio práctico del Máster en Machine Learning. Modelo supervisado que estima la
+Ejercicio práctico Machine Learning. Modelo supervisado que estima la
 **probabilidad de que un cliente vuelva a comprar**, con el fin de dirigir las acciones
 comerciales: **fidelización** para los clientes de alta probabilidad y **retención** para
 los de baja.
